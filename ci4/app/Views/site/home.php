@@ -29,7 +29,7 @@
    <div class="row py-3">
       <div style="overflow:hidden;" class="header col-md-10 p-4 offset-md-1">
          <div class="header__content d-md-flex justify-content-center">
-            <div class="d-none d-md-block justify-content-center"> <img class="header__side-img" src="<?=base_url();?>/assets/static/img/ama/ama-old-128x128.png" alt="Anshu Memorial Academy Logo"></div>
+            <div class="d-none d-md-block justify-content-center"> <img class="header__side-img" src="<?=base_url();?>/assets/static/img/ama/ama-128x128.png" alt="Anshu Memorial Academy Logo"></div>
             <div class="ml-md-4">
                <h1 class="h1 school-name text-indigo text-center mb-0 panton-b">Anshu Memorial Academy</h1>
                <p class="text-center small m-0 mb-2 text-purple">CBSE Pattern Based, An English Medium School.</p>
