@@ -12,7 +12,7 @@
 */
 
   .school-hdr {
-	  background: linear-gradient(hsla(210,17%,98%,0.95),hsla(210,17%,98%,0.95)), url("../img/ama/ama-512x512.png") center/contain no-repeat;
+	  background: linear-gradient(hsla(210,17%,98%,0.95),hsla(210,17%,98%,0.95)), url("../../img/ama/ama-512x512.png") center/contain no-repeat;
   }
   .school-hdr a {
      text-decoration: none;
@@ -182,7 +182,7 @@ a.slide__menu-item:hover {
 /* *************** Slider__1 ****************************************** */
 /* Slider */
 .slick-loading .slick-list {
-   background: #fff url('../../assets/vendor/slick/1.8.1/ajax-loader.gif') center center no-repeat;
+   background: #fff url('../../../assets/vendor/slick/1.8.1/ajax-loader.gif') center center no-repeat;
 }
 
 /* Icons */
@@ -190,11 +190,11 @@ a.slide__menu-item:hover {
    font-family: 'slick';
    font-weight: normal;
    font-style: normal;
-   src: url('../assets/vendor/slick/1.8.1/fonts/slick.eot');
-   src: url('../assets/vendor/slick/1.8.1/fonts/slick.eot?#iefix') format('embedded-opentype'),
-      url('../assets/vendor/slick/1.8.1/fonts/slick.woff') format('woff'),
-      url('../assets/vendor/slick/1.8.1/fonts/slick.ttf') format('truetype'),
-      url('../assets/vendor/slick/1.8.1/fonts/slick.svg#slick') format('svg');
+   src: url('../../../assets/vendor/slick/1.8.1/fonts/slick.eot');
+   src: url('../../../assets/vendor/slick/1.8.1/fonts/slick.eot?#iefix') format('embedded-opentype'),
+      url('../../../assets/vendor/slick/1.8.1/fonts/slick.woff') format('woff'),
+      url('../../../assets/vendor/slick/1.8.1/fonts/slick.ttf') format('truetype'),
+      url('../../../assets/vendor/slick/1.8.1/fonts/slick.svg#slick') format('svg');
 }
 
 .slider__1-wrapper {
@@ -204,7 +204,7 @@ a.slide__menu-item:hover {
 .slider__1 {
    width: 100%;
    position: relative;
-   background-image: linear-gradient(hsla(0, 0%, 0%, 0.5), hsla(0, 0%, 0%, 0.5)), url("../../../assets/static/img/web/nat-landscape2.jpg");
+   background-image: linear-gradient(hsla(0, 0%, 0%, 0.5), hsla(0, 0%, 0%, 0.5)), url("../../../../assets/static/img/web/nat-landscape2.jpg");
    background-size: cover;
    background-position: center center;
    background-repeat: no-repeat;

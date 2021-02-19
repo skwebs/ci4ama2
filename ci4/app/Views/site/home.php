@@ -4,7 +4,7 @@
 <?= $this->section('page-css'); ?>
 <link rel="stylesheet" href="<?=base_url();?>/assets/static/vendor/slick/1.8.1/slick.min2.css" />
 <link rel="stylesheet" href="<?=base_url();?>/assets/static/css/form/bs5a2-floating-label.css?v0" />
-<link rel="stylesheet" href="<?=base_url();?>/assets/static/css/home-page.css?<?=time();?>" />
+<link rel="stylesheet" href="<?=base_url();?>/assets/static/css/site/home-page.css?<?=time();?>" />
 <link rel="stylesheet" href="<?=base_url();?>/assets/static/css/shadow.css" />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/2.1.4/toastr.css" />
 

@@ -14,7 +14,7 @@
   <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-daterangepicker/3.0.5/daterangepicker.css"  crossorigin="anonymous" />
    <!--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.css" />
    <!-- base_layout css file for all page -->
-   <link rel="stylesheet" href="<?=base_url();?>/assets/static/css/base-layout.css?v14" />
+   <link rel="stylesheet" href="<?=base_url();?>/assets/static/css/template/base-layout.css?v14" />
    <?= $this->renderSection('page-css'); ?>
    
    <?=script_tag(base_url('assets/static/vendor/jquery/3.5.1/jquery.min.js'));?>
